@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-![alt text]([https://github.com/waltodd/shortener-url/src/assets/shortener.gif?raw=true](https://media.giphy.com/media/TMR6qqVxgnbA7FbZQG/giphy.gif))
+![alt text](https://media1.giphy.com/media/FjQCrxSdBgEaTpWAJl/giphy.gif?cid=790b7611f4fe4b64a0797d7cd2cef7a5d664c6c2b114a5f6&rid=giphy.gif&ct=g)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

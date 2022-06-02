@@ -1,8 +1,7 @@
 # Getting Started with Create React App
 
-![alt text](https://github.com/waltodd/shortener-url/blob/main/src/assets/shortener.gif?raw=true)
+![alt text](https://github.com/waltodd/shortener-url/src/assets/shortener.gif?raw=true)
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
